@@ -7,7 +7,7 @@ This app display weather data and 5 day forecast  from any city in the world usi
 ![screenshot](img/screenshot.png)
 
 ## Demo
-You can view the working demo here: [https://stanulilic.github.io/vanillajs-weatherapp/](https://stanulilic.github.io/vanillajs-weatherapp/)
+https://weatherapp-a4294.web.app/
 
 ## Features
 - It can show weather by Geolocation
